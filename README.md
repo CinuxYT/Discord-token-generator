@@ -1,4 +1,4 @@
-Discord Random Token Generator
+Discord Random Token Generator v2
 
 Python yüklü olması yeterlidir Çift tıkla çalıştır 
 
