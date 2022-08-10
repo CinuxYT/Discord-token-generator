@@ -1,4 +1,4 @@
-Discord Random Token Generator v2
+# Discord Random Token Generator v2
 
 Çift tıkla çalıştır 
 
