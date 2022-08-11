@@ -2,7 +2,7 @@
 
 Çift tıkla çalıştır 
 
-Oraya python olarakda bıraktım Dilerseniz python oalrak indiripde kullanabilirsiniz
+Oraya python olarakda bıraktım Dilerseniz python olarak indiripde kullanabilirsiniz
 
 oluşturduğunuz tokenleri Token tool ile tarata bilirsiniz
 
