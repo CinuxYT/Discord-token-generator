@@ -6,4 +6,9 @@ Oraya python olarakda bıraktım Dilerseniz python olarak indiripde kullanabilir
 
 oluşturduğunuz tokenleri Token tool ile tarata bilirsiniz
 
-# Youtube kanalıma abone olmayı unutma   https://www.youtube.com/c/CinuxYT
+# Youtube kanalıma abone olmayı unutma   https://www.youtube.com/c/Cinux
+
+
+
+
+
